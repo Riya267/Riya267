@@ -17,7 +17,7 @@ A Full Stack Web developer🎯 from India.
 
 ![Riya's github stats](https://github-readme-stats.vercel.app/api?username=Riya267&theme=tokyonight&show_icons=true)
 
-![](https://komarev.com/ghpvc/?username=piyush-eon)
+![](https://komarev.com/ghpvc/?username=Riya267)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
