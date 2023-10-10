@@ -15,7 +15,7 @@ A Full Stack Web developer🎯 from India.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
 
-![Riya's github stats](https://github-readme-stats.vercel.app/api?username=Riya267&theme=dracula&show_icons=true&show=prs_merged,prs_merged_percentage&hide=issues,contribs,stars)
+[![An image of @riya267's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/riya267)](https://holopin.io/@riya267)
 
 ![](https://komarev.com/ghpvc/?username=Riya267)
 
